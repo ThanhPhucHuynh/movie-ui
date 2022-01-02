@@ -1,0 +1,1 @@
+export { routeName } from "./routename"
